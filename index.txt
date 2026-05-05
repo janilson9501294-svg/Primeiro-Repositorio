@@ -2,4 +2,6 @@ Esse é o meu primeiro repositório que criei
 no GitHub e clonei na minha máquina.
 
 Agora vou realizar um commit e mandar essa 
-alteração para
+alteração para o GitHub.
+
+Alteração feita pelo GitHub.
